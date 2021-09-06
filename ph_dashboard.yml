@@ -1,0 +1,20 @@
+# conda environments:
+#
+base                     /home/gonik/anaconda3
+api_rpi                  /home/gonik/anaconda3/envs/api_rpi
+classification_methods     /home/gonik/anaconda3/envs/classification_methods
+curado_protes            /home/gonik/anaconda3/envs/curado_protes
+dash_franco              /home/gonik/anaconda3/envs/dash_franco
+dashboard                /home/gonik/anaconda3/envs/dashboard
+dolar_basic              /home/gonik/anaconda3/envs/dolar_basic
+fighting_dockers         /home/gonik/anaconda3/envs/fighting_dockers
+glotapp                  /home/gonik/anaconda3/envs/glotapp
+google_translation       /home/gonik/anaconda3/envs/google_translation
+nns                      /home/gonik/anaconda3/envs/nns
+ph_dashboard          *  /home/gonik/anaconda3/envs/ph_dashboard
+plotter                  /home/gonik/anaconda3/envs/plotter
+python3.9                /home/gonik/anaconda3/envs/python3.9
+scraper                  /home/gonik/anaconda3/envs/scraper
+scraping_gv              /home/gonik/anaconda3/envs/scraping_gv
+tom_binance              /home/gonik/anaconda3/envs/tom_binance
+
