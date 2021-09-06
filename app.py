@@ -22,7 +22,8 @@ for mol in na_moles:
     phs.append(system.pH)
 plt.plot(na_moles, phs)
 st.pyplot(plt.gcf())
-plt.show()
+
+plt.clf()
 
 
 phos = Acid(pKa=[2.148, 7.198, 12.319], charge=0, conc=0.01)
@@ -30,4 +31,3 @@ phs = np.linspace(0, 14, 1000)
 fracs = phos.alpha(phs)
 plt.plot(phs, fracs)
 st.pyplot(plt.gcf())
-plt.show()
